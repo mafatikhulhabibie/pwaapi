@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Topi","category":"Maroon"},
+{"id":2,"name":"Capuchin, black-capped","category":"Puce"},
+{"id":3,"name":"Rainbow lory","category":"Green"},
+{"id":4,"name":"Adouri (unidentified)","category":"Green"},
+{"id":5,"name":"Wolf, mexican","category":"Blue"},
+{"id":6,"name":"Egyptian viper","category":"Orange"},
+{"id":7,"name":"White-winged dove","category":"Turquoise"},
+{"id":8,"name":"Brocket, red","category":"Blue"},
+{"id":9,"name":"Canada goose","category":"Mauv"},
+{"id":10,"name":"Squirrel, antelope ground","category":"Mauv"},
+{"id":11,"name":"Blackbuck","category":"Purple"},
+{"id":12,"name":"Elephant, asian","category":"Orange"},
+{"id":13,"name":"Blue fox","category":"Violet"},
+{"id":14,"name":"Blue wildebeest","category":"Violet"},
+{"id":15,"name":"Wallaby, bennett's","category":"Yellow"},
+{"id":16,"name":"Woodcock, american","category":"Crimson"},
+{"id":17,"name":"Brown antechinus","category":"Turquoise"},
+{"id":18,"name":"Squirrel, uinta ground","category":"Puce"},
+{"id":19,"name":"Crocodile, nile","category":"Yellow"},
+{"id":20,"name":"African bush squirrel","category":"Pink"}
+]
+}
